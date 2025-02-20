@@ -1,0 +1,14 @@
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\bin\Debug\net8.0\Task2_2.exe
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\bin\Debug\net8.0\Task2_2.deps.json
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\bin\Debug\net8.0\Task2_2.runtimeconfig.json
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\bin\Debug\net8.0\Task2_2.dll
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\bin\Debug\net8.0\Task2_2.pdb
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.AssemblyInfoInputs.cache
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.AssemblyInfo.cs
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.csproj.CoreCompileInputs.cache
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.dll
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\refint\Task2_2.dll
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.pdb
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\Task2_2.genruntimeconfig.cache
+C:\Users\znamenskiypy\source\repos\Task2_2\Task2_2\obj\Debug\net8.0\ref\Task2_2.dll
